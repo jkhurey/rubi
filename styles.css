@@ -25,3 +25,8 @@ header::after {
 nav{
     float: right;
 } 
+
+nav ul{
+    margin: 0;
+    padding: 0;
+}
