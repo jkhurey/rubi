@@ -13,7 +13,7 @@ h1 {color: aqua;
 }
 
 header{
-    background: bisque;
+    background: rgb(255, 255, 255);
 }
 
 header::after {
