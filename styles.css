@@ -19,6 +19,7 @@ h1 {color: #ff1d25;
    flex-wrap: wrap;
    width: 100%;
    height: 70px;
+   z-index: 1;
    }
 
    .nav{
