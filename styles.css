@@ -11,7 +11,7 @@ h1 {color: #ff1d25;
 }
 
 .container{
-   position: fixed;
+   position: top;
    display: flex;
    justify-content: center;
    align-items: center;
