@@ -19,7 +19,7 @@ h1 {color: #ff1d25;
 
 header{
     background: rgb(255, 255, 255);
-    position: sticky;
+    
 }
 
 header::after {
@@ -30,6 +30,7 @@ header::after {
 
 nav{
     float: right;
+    position: sticky;
 } 
 
 nav ul{
