@@ -11,43 +11,21 @@ h1 {color: #ff1d25;
 }
 
 .container{
-   width: 80%;
-   margin: 0 auto;
    position: fixed;
    display: flex;
+   justify-content: center;
+   align-items: center;
    flex-direction: row;
    flex-wrap: wrap;
-   
+   width: 100%;
+   height: 70px;
+   }
 
-}
 
-header{
-    background: rgb(255, 255, 255);
-    
-}
 
-header::after {
-    content: '';
-    display: table;
-    clear: both;
-}
 
-nav{
-    float: right;
-    
-} 
 
-nav ul{
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
 
-nav li{
-    display: inline-block;
-    margin-left: 70px;
-    padding-top: 25px;
-}
 
 .story{
    padding: 40px;
