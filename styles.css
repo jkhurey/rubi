@@ -46,7 +46,7 @@ h1 {color: #ff1d25;
         text-transform: uppercase;
       }
 
-      a: :hover{
+      a :hover{
         color: #ff1d25;
       }
 
