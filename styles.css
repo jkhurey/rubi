@@ -43,6 +43,6 @@ nav li{
 }
 
 .story{
-    display: grid;
-    grid-template-columns: 40% 30% 30%;
-}
+   padding: 40px;
+   right: 50px;
+   }
