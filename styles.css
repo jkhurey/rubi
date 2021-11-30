@@ -32,10 +32,22 @@ h1 {color: #ff1d25;
    .logo{
        flex: 1 1 auto;
        margin-left: 10%;
+       text-transform: uppercase;
+       letter-spacing: 1px;
+       font-weight: bold;
+       font-size: 35px;
+
         }
 
     a{
         margin: 15px;
+        color: #ff1d25;
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+
+      a: :hover{
+        color: #ff1d25;
       }
 
 
