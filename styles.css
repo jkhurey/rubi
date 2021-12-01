@@ -66,8 +66,7 @@ h1 {color: #ff1d25;
         width: min(90%, 75rem);
         display: grid;
         grid-template-columns: 33% 33% 33%;
-
-    } 
+       } 
     
    
 
