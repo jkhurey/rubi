@@ -43,24 +43,9 @@ h1 {color: #ff1d25;
        font-size: 35px;
 
         }
-
-    
-
-    .banner-area{
-        position: relative;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        flex-wrap: wrap;
-        flex-direction: row;
-        width: 100%;
-        
-    }
-    
-    .text-part{
-        width: 65%;
-        height: 80%;
-    }
+        a{
+            margin: 20px;
+        }
 
     .grid{
         margin: 5rem auto;
