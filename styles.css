@@ -43,16 +43,7 @@ h1 {color: #ff1d25;
 
         }
 
-    a{
-        margin: 15px;
-        color: #ff1d25;
-        text-decoration: none;
-        text-transform: uppercase;
-      }
-
-      a :hover{
-        color: #ff1d25;
-      }
+    
 
     .banner-area{
         position: relative;
