@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #222;
+    background: #D2D9D8;
 }
 
 h1 {color: #ff1d25;
@@ -77,8 +77,8 @@ h1 {color: #ff1d25;
         width: 100%;
         height: 700px;
     } 
-
-
+    
+   
 
 .story{
    padding: 40px;
