@@ -33,6 +33,9 @@ h1 {color: #ff1d25;
    .logo{
        flex: 1 1 auto;
        margin-left: 10%;
+       font-family: futura-pt-bold, sans-serif;
+       font-weight: 700;
+       font-style: normal;
        text-transform: uppercase;
        letter-spacing: 1px;
        font-weight: bold;
