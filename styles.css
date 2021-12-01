@@ -47,6 +47,10 @@ h1 {color: #ff1d25;
             margin: 20px;
         }
 
+        .cover{
+            margin: 20px;
+        }
+
     .grid{
         margin: 5rem auto;
         width: min(90%, 75rem);
