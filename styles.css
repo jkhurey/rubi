@@ -10,7 +10,7 @@ h1 {color: #ff1d25;
     font-style: normal;
 }
 
-.container{
+.navbar{
    position: fixed;
    display: flex;
    justify-content: center;
