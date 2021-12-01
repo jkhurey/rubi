@@ -52,7 +52,14 @@ h1 {color: #ff1d25;
         width: min(90%, 75rem);
         display: grid;
         grid-template-columns: 33% 33% 33%;
+        gap: 2em;
        } 
+
+       @media (min-width: 5em) {
+           .columns {
+               grid-auto-flow: column;
+           }
+       }
     
    
 
