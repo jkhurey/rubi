@@ -11,6 +11,7 @@ h1 {color: #ff1d25;
 }
 
 .navbar{
+    top: 0%;
    position: fixed;
    display: flex;
    justify-content: center;
