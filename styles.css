@@ -73,7 +73,10 @@ h1 {color: #ff1d25;
         height: 100%;
        } 
 
-       
+       @media (min-width: 5em) {
+           .columns {
+               grid-auto-flow: column;
+           }
        }
     
    
