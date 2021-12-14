@@ -131,11 +131,11 @@ h1 {color: #ff1d25;
   }
   
   .navbar .menu-icon .navicon:before {
-    top: 10px;
+    top: 5px;
   }
   
   .header .menu-icon .navicon:after {
-    top: -10px;
+    top: -5px;
   }
   
   /* menu btn */
@@ -145,7 +145,7 @@ h1 {color: #ff1d25;
   }
   
   .navbar .menu-btn:checked ~ .menu {
-    max-height: 240px;
+    max-height: 440px;
   }
   
   .navbar .menu-btn:checked ~ .menu-icon .navicon {
