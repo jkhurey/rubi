@@ -65,9 +65,9 @@ h1 {color: #ff1d25;
     .grid{
         margin: 20px auto;
         width: min(90%, 75rem);
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        display: grid;
+        grid-template-columns: 33% 33% 33%;
+        gap: 2em;
        } 
 
        @media (min-width: 5em) {
