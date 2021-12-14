@@ -68,6 +68,7 @@ h1 {color: #ff1d25;
         display: grid;
         gap: 2em;
         place-items: center;
+        justify-items: center;
        } 
 
        @media (min-width: 5em) {
