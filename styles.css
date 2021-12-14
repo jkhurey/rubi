@@ -173,6 +173,7 @@ h1 {color: #ff1d25;
 
     .cover{
         align-items: center;
+        justify-content: center;
     }
 
     .grid{
