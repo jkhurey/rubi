@@ -184,7 +184,7 @@ h1 {color: #ff1d25;
         gap: 2em;
         justify-content: center;
         align-content: center;
-        grid-template-columns: 1fr 400px 1fr;
+        grid-template-columns: 1fr;
         height: 100%;
        } 
 
