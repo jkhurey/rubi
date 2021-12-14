@@ -191,6 +191,7 @@ h1 {color: #ff1d25;
        .cat{
         margin-left: 200px;
         margin-right: 200px;
+        place-items: center;
     }
 
        /* @media (min-width: 5em) {
