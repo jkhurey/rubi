@@ -131,11 +131,11 @@ h1 {color: #ff1d25;
   }
   
   .navbar .menu-icon .navicon:before {
-    top: 5px;
+    top: 10px;
   }
   
   .header .menu-icon .navicon:after {
-    top: -5px;
+    top: -10px;
   }
   
   /* menu btn */
