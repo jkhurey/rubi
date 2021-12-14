@@ -68,6 +68,7 @@ h1 {color: #ff1d25;
         display: grid;
         grid-template-columns: 33% 33% 33%;
         gap: 2em;
+        place-items: center;
        } 
 
        @media (min-width: 5em) {
