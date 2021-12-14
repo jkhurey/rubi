@@ -10,50 +10,6 @@ h1 {color: #ff1d25;
     font-style: normal;
 }
 
-/* .navbar{
-    top: 0%;
-   position: fixed;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-direction: row;
-   flex-wrap: wrap;
-   width: 100%;
-   height: 70px;
-   z-index: 1;
-   background-color: whitesmoke;
-   box-shadow: 1px 1px 4px 0 #ff1d25;
-   } */
-
-   /* .nav{
-       display: flex;
-       justify-content: right;
-       list-style: none;
-       margin-right: 5%;
-   } */
-
-   
-
-   /* .logo{
-       flex: 1 1 auto;
-       margin-left: 5%;
-       font-family: futura-pt-bold, sans-serif;
-       font-weight: 700;
-       font-style: normal;
-       text-transform: uppercase;
-       letter-spacing: 1px;
-       font-weight: bold;
-       font-size: 35px;
-    } */
-
-    /* .icon{
-
-        margin-left: 15px;
-        margin-right: 15px;
-    } */
-
-    /* header */
-
 .navbar {
     background-color: whitesmoke;
     box-shadow: 1px 1px 4px 0 #ff1d25;
@@ -164,6 +120,8 @@ h1 {color: #ff1d25;
   .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
     top: 0;
   }
+
+  /* grid */
     
     a{
             
@@ -217,3 +175,51 @@ h1 {color: #ff1d25;
         }
       }
 
+
+
+
+
+
+      /* .navbar{
+    top: 0%;
+   position: fixed;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: row;
+   flex-wrap: wrap;
+   width: 100%;
+   height: 70px;
+   z-index: 1;
+   background-color: whitesmoke;
+   box-shadow: 1px 1px 4px 0 #ff1d25;
+   } */
+
+   /* .nav{
+       display: flex;
+       justify-content: right;
+       list-style: none;
+       margin-right: 5%;
+   } */
+
+   
+
+   /* .logo{
+       flex: 1 1 auto;
+       margin-left: 5%;
+       font-family: futura-pt-bold, sans-serif;
+       font-weight: 700;
+       font-style: normal;
+       text-transform: uppercase;
+       letter-spacing: 1px;
+       font-weight: bold;
+       font-size: 35px;
+    } */
+
+    /* .icon{
+
+        margin-left: 15px;
+        margin-right: 15px;
+    } */
+
+    /* header */
