@@ -60,7 +60,9 @@ h1 {color: #ff1d25;
             color: #ff1d25;
         }
 
-        
+      p{
+          margin: 400px;
+      }  
 
     .grid{
         margin: 20px auto;
