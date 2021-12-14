@@ -67,8 +67,10 @@ h1 {color: #ff1d25;
         width: min(90%, 75rem);
         display: grid;
         gap: 2em;
-        place-items: center;
-        place-content: center;
+        justify-content: center;
+        align-content: center;
+        grid-template-columns: 1fr;
+        height: 100%;
        } 
 
        @media (min-width: 5em) {
