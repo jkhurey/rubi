@@ -16,6 +16,10 @@
 }
 /*        */
 
+p{
+  text-align: center;
+}
+
 .navbar {
   background-color: whitesmoke;
   box-shadow: 1px 1px 4px 0 #ff1d25;
