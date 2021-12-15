@@ -147,7 +147,10 @@ p{
 
 
 
-
+.logo{
+  text-decoration: none;
+  color: #ff1d25;
+}
 
 /*        */
 nav{
