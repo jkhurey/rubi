@@ -10,6 +10,9 @@
           "design content3 content4"
           "footer footer footer" ;
           grid-gap: 0.2rem;
+          justify-content: center;
+          justify-self: center;
+          justify-items: center;
 }
 /*        */
 
