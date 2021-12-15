@@ -151,6 +151,9 @@ h1 {color: #ff1d25;
          margin: 20px auto;
        }
        
+       .grid-item-1{
+         grid-column: span 4;
+       }
 
        /* .cover{
         align-items: center;
