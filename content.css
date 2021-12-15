@@ -153,7 +153,7 @@ p{
 nav{
   
   grid-area: nav;
-  ont-family: futura-pt-bold, sans-serif;
+  font-family: futura-pt-bold, sans-serif;
 }
 
 main{
