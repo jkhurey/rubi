@@ -129,11 +129,6 @@ h1 {color: #ff1d25;
             color: #ff1d25;
         }
 
-    .cover{
-        align-items: center;
-        justify-content: center;
-        padding: 100px;
-    }
 
     .grid{
         margin: 20px auto;
@@ -145,6 +140,12 @@ h1 {color: #ff1d25;
         grid-template-columns: 1fr;
         height: 100%;
        } 
+       
+       .cover{
+        align-items: center;
+        justify-content: center;
+        padding: 100px;
+    }
 
        .cat{
         margin-left: 200px;
