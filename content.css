@@ -5,9 +5,9 @@
   grid-template-rows: 0.24fr 1.5fr 1.2fr 0.76fr;
   grid-template-areas:
           "nav nav nav nav"
-          "sidebar main main main"
-          "sidebar content1 content2 content3"
-          "sidebar footer footer footer" ;
+          "main main main main"
+          "content1 content2 content3 content4"
+          "footer footer footer footer" ;
 }
 /*        */
 
@@ -136,13 +136,10 @@ main{
   background: chocolate;
   grid-area: main;
 }
-#sidebar{
-  background: coral;
-  grid-area: sidebar;
-}
+
 
 #content1{
-  background: darkgray;
+  /*background: darkgray;*/
   grid-area: content1;
 }
 
@@ -156,6 +153,9 @@ main{
   grid-area: content3;
 }
 
+#content4{
+  grid-area: content4;
+}
 
 footer{
   background: dodgerblue;
