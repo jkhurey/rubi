@@ -151,7 +151,9 @@ h1 {color: #ff1d25;
           "main main main"
           "content1 content2 content3"
           "content4 content5 content5"
-          "footer footer footer" ;
+          "footer footer footer";
+          justify-content: center;
+        align-content: center;
        }
        
        .grid-item-1{
