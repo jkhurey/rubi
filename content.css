@@ -4,10 +4,10 @@
   grid-template-columns: 50% 50%;
   grid-template-rows: 0.30fr .5fr 1fr 1fr 0.70fr;
   grid-template-areas:
-          "nav nav nav"
-          "main main main "
-          "design content1 content2"
-          "design content3 content4"
+          "nav nav"
+          "main main"
+          "content1 content2"
+          "content3 content4"
           "footer footer footer" ;
           grid-gap: 0.2rem;
           justify-content: center;
