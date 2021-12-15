@@ -144,16 +144,14 @@ h1 {color: #ff1d25;
        .grid-container{
          display: grid;
          height: 100vh;
-         grid-template-columns: 1fr 1fr 1fr ;
-         grid-template-rows: 0.2fr 1fr 1fr 0.8fr;
+         grid-template-columns: 1fr 1fr 1fr 1fr;
+         grid-template-rows: 0.2fr 1fr 1fr 1fr 0.8fr;
          grid-template-areas:
-          "nav nav nav "
-          "main main main"
-          "content1 content2 content3"
-          "content4 content5 content5"
-          "footer footer footer";
-          justify-content: center;
-        align-content: center;
+          "nav nav nav nav"
+          "sidebar main main main"
+          "sidebar content1 content2 content3"
+          "sidebar content4 content5 content5"
+          "sidebar footer footer footer" ;
        }
        
        .grid-item-1{
