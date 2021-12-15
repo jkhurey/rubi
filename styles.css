@@ -156,6 +156,13 @@ h1 {color: #ff1d25;
        .grid-item-1{
          grid-area: nav;
        }
+       .grid-item-2{
+         grid-area: main;
+       }
+       .grid-item-3{
+         grid-area: content1;
+       }
+
 
        /* .cover{
         align-items: center;
