@@ -176,7 +176,7 @@ h1 {color: #ff1d25;
            }
        } */
     
-       @media (min-width: 48em) {
+       /*@media (min-width: 48em) {
         .header li {
           float: left;
         }
@@ -191,7 +191,7 @@ h1 {color: #ff1d25;
         .header .menu-icon {
           display: none;
         }
-      }
+      } */
 
 
 
