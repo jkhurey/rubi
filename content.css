@@ -1,14 +1,14 @@
 .container{
   display: grid;
   height: 100vh;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 0.30fr .5fr 1fr 1fr 0.70fr;
   grid-template-areas:
           "nav nav nav nav"
-          "main main main main"
-          "temp content1 content2 temp"
-          "temp content3 content4 temp"
-          "footer footer footer footer" ;
+          "main main main "
+          "design content1 content2"
+          "design content3 content4"
+          "footer footer footer" ;
           grid-gap: 0.2rem;
 }
 /*        */
@@ -139,6 +139,9 @@ main{
   grid-area: main;
 }
 
+#design{
+  background: gray;
+}
 
 #content1{
   /*background: darkgray;*/
