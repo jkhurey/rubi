@@ -6,8 +6,8 @@
   grid-template-areas:
           "nav nav nav nav"
           "main main main main"
-          "content1 content2"
-          "content3 content4"
+          "temp content1 content2 temp"
+          "temp content3 content4 temp"
           "footer footer footer footer" ;
           grid-gap: 0.2rem;
 }
