@@ -4,7 +4,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 0.30fr .5fr 1fr 1fr 0.70fr;
   grid-template-areas:
-          "nav nav nav nav"
+          "nav nav nav"
           "main main main "
           "design content1 content2"
           "design content3 content4"
