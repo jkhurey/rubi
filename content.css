@@ -18,6 +18,9 @@
           padding: 60px;
 }
 /*        */
+body{
+  font-family: futura-pt, sans-serif;
+}
 
 h1 {color: #ff1d25;
   font-family: futura-pt-bold, sans-serif;
