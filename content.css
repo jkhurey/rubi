@@ -39,10 +39,6 @@ main{
   grid-area: content3;
 }
 
-#content4{
-  background: gold;
-  grid-area: content4;
-}
 
 footer{
   background: dodgerblue;
