@@ -129,12 +129,12 @@
 
 /*        */
 nav{
-  width: 100%;
+  
   grid-area: nav;
 }
 
 main{
-  background: chocolate;
+  
   grid-area: main;
 }
 
@@ -145,12 +145,12 @@ main{
 }
 
 #content2{
-  background: darkred;
+  
   grid-area: content2;
 }
 
 #content3{
-  background: darkviolet;
+  
   grid-area: content3;
 }
 
