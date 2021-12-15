@@ -7,37 +7,45 @@
           "nav nav nav nav"
           "sidebar main main main"
           "sidebar content1 content2 content3"
-          "sidebar content4 content5 content5"
+          "sidebar content4 "
           "sidebar footer footer footer" ;
 }
 
 nav{
   background: chartreuse;
+  grid-area: nav;
 }
 
 main{
   background: chocolate;
+  grid-area: main;
 }
 #sidebar{
   background: coral;
+  grid-area: sidebar;
 }
 
 #content1{
   background: darkgray;
+  grid-area: content1;
 }
 
 #content2{
   background: darkred;
+  grid-area: content2;
 }
 
 #content3{
   background: darkviolet;
+  grid-area: content3;
 }
 
 #content4{
   background: gold;
+  grid-area: content4;
 }
 
 footer{
   background: dodgerblue;
+  grid-area: footer;
 }
