@@ -148,17 +148,17 @@ h1 {color: #ff1d25;
          grid-gap: 20px;
        }
 
-       .cover{
+       /* .cover{
         align-items: center;
         justify-content: center;
         padding: 100px;
-    }
+    } */
 
-       .cat{
+       /* .cat{
         margin-left: 200px;
         margin-right: 200px;
         place-items: center;
-    }
+    } */
 
        /* @media (min-width: 5em) {
            .columns {
