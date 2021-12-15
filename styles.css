@@ -143,10 +143,10 @@ h1 {color: #ff1d25;
        
        .grid-container{
          display: grid;
+         height: 100vh;
          grid-template-columns: 1fr 1fr 1fr 1fr;
          grid-template-rows: 0.4fr 1.5fr 1.2fr 0.6fr;
          grid-gap: 20px;
-         width: min(90%, 75rem);
          margin: 20px auto;
        }
        
