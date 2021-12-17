@@ -135,26 +135,13 @@
   
   /*        */
   nav{
-    
-    grid-area: nav;
     font-family: futura-pt-bold, sans-serif;
   }
   
-  main{
-    
-    grid-area: main;
-  }
   
-  #design{
-    background: gray;
-  }
   
- 
 
-  footer{
-    
-    grid-area: footer;
-  }
+  
   
   @media only screen and (max-width: 550px) {
     .container{
