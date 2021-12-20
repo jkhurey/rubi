@@ -55,6 +55,12 @@ h1 {color: #ff1d25;
   font-style: normal;
 }
 
+h2 {color: #ff1d25;
+  font-family: futura-pt-bold, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
 p{
   text-align: left;
   justify-items: left;
